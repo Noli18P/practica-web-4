@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container {
+    background-color: #4f56bb;
+}
+
+.navigation {
+    background: transparent;
+}
+.logo {
+    position: relative;
+    left: 20px;
+    top: 20px;
+    float: left;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 25px;
+    position: relative;
+    top: 20px;
+} 
+
+#btn-nav {
+    color: #fff;
+    background: #e96b46;
+    padding: 2px 15px 2px 15px;
+    border: none;
+    position: relative;
+    right: 20px;
+    bottom: 5px;
+    float: right;
+}
+
+.principal-info {
+    color: #fff;
+    margin-top: 70px;
+    text-align: left;
+}
+
+.title1 {
+    font-size: 30px;
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+.p1 {
+    font-size: 15px;
+    text-align: left;
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+#btn1 {
+    color: #000;
+    padding: 3px 25px 3px 25px;
+    background-color: #fbc046;
+    margin-left: 150px;
+    border-style: none;
+    margin-top: 40px;
+}
+
+#btn2 {
+    color: #fff;
+    background: transparent;
+    padding: 3px 25px 3px 25px;
+    border: 1px solid #fff;
+}
+
+.principal-info {
+    width: 50%;
+    float: left;
+}
+
+#pi {
+    border-radius: 50%;
+    width: 450px;
+    margin-top: 75px;
+}
+
+.second-info {
+    background-color: #fff;
+}
+
+.second-image {
+    float: left;
+    margin-left: 90px;
+}
+
+.title2 {
+    text-align: right;
+    font-size: 25px;
+    margin-right: 150px;
+    position: relative;
+    top: 100px;
+}
+
+.title3 {
+    font-weight: lighter;
+    text-align: right;
+    margin-right: 150px;
+    font-size: 15px;
+    position: relative;
+    top: 100px;
+}
+
+.second-info-o {
+    margin-top: 50px;
+}
+
+#i2 {
+    width: 450px;
+    margin-top: 20px;
+}
+
+#btn3 {
+    background-color: #e96b46;
+    color: #fff;
+    padding: 4px 100px 4px 100px;
+    text-align: center;
+    border-style: none;
+    border-radius: 30px;
+    position: relative;
+    top: 130px;
+    left: 60px;
+}
